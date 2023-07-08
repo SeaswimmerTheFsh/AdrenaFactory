@@ -1,0 +1,16 @@
+name = "AdrenaFactory"
+author = "SeaswimmerTheFsh"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "de9e80e4a5d3e645df0e5cf89b964604302718b9daca92ca9d4adb8c011ebfc4"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = []
