@@ -1,13 +1,13 @@
 name = "AutoWhitelist"
-filename = "autowhitelist-1.0.0-alpha.5+1.20.1.jar"
+filename = "autowhitelist-1.0.0-alpha.6.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/BMaqFQAd/versions/MtA9tDny/autowhitelist-1.0.0-alpha.5%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/BMaqFQAd/versions/3L71SuCO/autowhitelist-1.0.0-alpha.6.jar"
 hash-format = "sha1"
-hash = "3b3e942e5e4ed6c65784a0a18bb0c53276789ce6"
+hash = "017f5243e9145014902253404342bf06fe0bf938"
 
 [update]
 [update.modrinth]
 mod-id = "BMaqFQAd"
-version = "MtA9tDny"
+version = "3L71SuCO"
