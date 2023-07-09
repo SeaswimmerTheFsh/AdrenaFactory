@@ -96,8 +96,28 @@ hash = "c63c1f5c93b543afe1b20f929e365dc8021725871cec240bec46f1db7b4c55ab"
 metafile = true
 
 [[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "f5065276e57a561d2701826d93e120a28fd9a60002c2714e5a53d3313646efba"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
+metafile = true
+
+[[files]]
+file = "mods/originstweaks.pw.toml"
+hash = "d9d2bb1f64d75c5348310fdc072e2e57e53c8ab2dfa95dc08805ebadfa71a657"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "83b476730dba8c3cdc9ee6ed4e0623f97bc116848aebfe3149eece321083b251"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "e6ad8855aee828b004b5be87f5cad12dbc9de346e7200add290b1b93a2a0ad5c"
 metafile = true
 
 [[files]]
