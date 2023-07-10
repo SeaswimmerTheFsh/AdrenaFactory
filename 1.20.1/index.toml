@@ -101,14 +101,6 @@ file = "config/fsb-interop.json"
 hash = "1966f13d3dbb8a4e9ef746f08468fc5b583bb5dc82ce187cacbf60da0cf2e585"
 
 [[files]]
-file = "config/heracles/groups.txt"
-hash = "b626f83e4586f8fabbfe868dbb3d7442a724e394e68ebf766792bedf81818995"
-
-[[files]]
-file = "config/heracles/tutorial.html"
-hash = "3ee4fc4dea2619980a842af8e3b992a25d5aa0e3405c693d4d5def280928fa03"
-
-[[files]]
 file = "config/immediatelyfast.json"
 hash = "317561431535efced79ad3b9ea6483103e7ab44f33eb4c99896a97e157bc932f"
 
@@ -150,7 +142,7 @@ hash = "c3e7f2215c70a6f1a42129a4f858b0982dd3c7011a6c5e260f66422e5c616017"
 
 [[files]]
 file = "config/openpartiesandclaims-server.toml"
-hash = "e8e776b10f164ea7441f9257f49246a8e3c21bc560c2c565b726419e7681b5c4"
+hash = "bfe8816ef8e1cde5da0079a827fb358ab6aacdbbe2b2a9800db484e680cd13fc"
 
 [[files]]
 file = "config/puzzle.json"
@@ -216,11 +208,6 @@ metafile = true
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
-metafile = true
-
-[[files]]
-file = "mods/argonauts.pw.toml"
-hash = "034147b1e2ac159282179ecfedaec60c95d7e18db55e3e97c0065e14f3b313e5"
 metafile = true
 
 [[files]]
@@ -319,6 +306,11 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
+file = "mods/figura.pw.toml"
+hash = "a95f5763a2dfb758c2e0891fca765df93a39109c6e24890d3908323114be73ca"
+metafile = true
+
+[[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
 hash = "38a2c415fc59ca97c5297542b67daf477ecce294b3cbe2fe530193c879a252a6"
 metafile = true
@@ -326,11 +318,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
-metafile = true
-
-[[files]]
-file = "mods/heracles.pw.toml"
-hash = "c0a161511f53f1629aa1fce0510890c4a8593906d57c661160896c5052a6ae9e"
 metafile = true
 
 [[files]]

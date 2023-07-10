@@ -9,14 +9,14 @@
 	#Check the default player config .toml file for the option names.
 	opConfigurablePlayerConfigOptions = ["claims.bonusChunkClaims", "claims.bonusChunkForceloads"]
 	#The player party system to prefer and use for anything that can't support multiple systems (e.g. default, ftb_teams, argonauts, argonauts_guilds). Non-built-in party systems can be registered through the API with an addon.
-	primaryPartySystem = "argonauts_guilds"
+	primaryPartySystem = "default"
 	#The default language used for server-side localization for players that don't have the mod installed.
 	defaultLanguage = "en_us"
 	#How often to auto-save modified data, e.g. parties, claims, player configs (in minutes).
 	#Range: > 1
 	autosaveInterval = 10
 	#The permission system to use for everything that requires permission checks (e.g. permission_api, ftb_ranks, luck_perms, prometheus). Non-built-in permission systems can be registered through the API with an addon.
-	permissionSystem = "prometheus"
+	permissionSystem = "luck_perms"
 	#How many sub-configs (sub-claims) can each player create.
 	#Range: 0 ~ 1024
 	playerSubConfigLimit = 64
