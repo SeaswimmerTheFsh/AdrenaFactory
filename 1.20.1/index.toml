@@ -436,11 +436,6 @@ hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
 
 [[files]]
-file = "mods/smoothboot-fabric.pw.toml"
-hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
 metafile = true
@@ -473,11 +468,6 @@ metafile = true
 [[files]]
 file = "mods/styledplayerlist.pw.toml"
 hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "bb044cd95d56fb9e1f52a8c18a843df8daf56d22a822568112e9dfa28dab7926"
 metafile = true
 
 [[files]]
