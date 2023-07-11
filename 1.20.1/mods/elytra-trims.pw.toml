@@ -1,0 +1,13 @@
+name = "Elytra Trims"
+filename = "elytratrims-1.1.10-beta.1+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XpzGz7KD/versions/wmtpMrnl/elytratrims-1.1.10-beta.1%2B1.20.jar"
+hash-format = "sha1"
+hash = "9647965dfafb675777a59e7b657924a54b9a41e0"
+
+[update]
+[update.modrinth]
+mod-id = "XpzGz7KD"
+version = "wmtpMrnl"

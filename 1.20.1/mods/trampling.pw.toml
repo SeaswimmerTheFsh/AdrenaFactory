@@ -1,0 +1,13 @@
+name = "Trampling"
+filename = "trampling-1.1.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v0Og01bf/versions/siHGOxiz/trampling-1.1.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "9e7765664e7f86c303f9070e714719d6338bdb8b"
+
+[update]
+[update.modrinth]
+mod-id = "v0Og01bf"
+version = "siHGOxiz"
