@@ -526,8 +526,8 @@ hash = "99eaff7f4150178c517568cfa6060fa549776d94fbf2d6758b41c26b1efef3b6"
 metafile = true
 
 [[files]]
-file = "mods/sea-originstweaks.jar"
-hash = "96ba1bd90e2954ff87645a52ee0a21ee925d403a59dff3b3cf2c456053acde4f"
+file = "mods/sea-originstweaks-1.15.1.jar"
+hash = "78449247d477082417c11a41035650eb3b499009498092a924f09371b75580da"
 
 [[files]]
 file = "mods/servercore.pw.toml"
