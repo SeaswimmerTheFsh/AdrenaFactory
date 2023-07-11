@@ -53,6 +53,10 @@ file = "config/dynamicfps.toml"
 hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "5ac7a9fcfa90199994c06137a01ddb6d966882cec9dbb94bf5f14b99fd1a65ad"
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "84825744a3386b5194422e99eba7a3f49f0b29d4a9eb74a11921fd558d4571e8"
 
