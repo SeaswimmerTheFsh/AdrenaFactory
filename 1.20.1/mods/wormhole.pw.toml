@@ -1,0 +1,13 @@
+name = "Wormhole (Portals)"
+filename = "wormhole-1.1.12-fabric-mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6nHZTTjQ/versions/eI0BCX1W/wormhole-1.1.12-fabric-mc1.20.jar"
+hash-format = "sha1"
+hash = "10566b50aca99ea8dabbc432ee8a49063482266d"
+
+[update]
+[update.modrinth]
+mod-id = "6nHZTTjQ"
+version = "eI0BCX1W"

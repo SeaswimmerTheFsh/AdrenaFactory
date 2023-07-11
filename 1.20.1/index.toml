@@ -201,6 +201,11 @@ file = "config/zoomify.json"
 hash = "469d4c65a652922a336ebe362fd44b8dbd8b165e4a3c7deb5d2a812ff0a3bbed"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "ae9173e1d85d2490f520e779f628b219c5f96b4822f1ca5fb6ce223e4de02acf"
+metafile = true
+
+[[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "fa36bed67c8b5609df8d5b3d5db183ae9ddaa6a868ccf585c41467d6756e941f"
 metafile = true
@@ -208,6 +213,16 @@ metafile = true
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "e6884ac0de6b859e0bb65182055c3780d4c09dfa5d3240c9c16ba2fb5bb50ac3"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "df19c411fd67e340ed687f781863a6d7fb9f1de666449df75ffe82136e45f9dc"
 metafile = true
 
 [[files]]
@@ -233,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/betteraddserver.pw.toml"
 hash = "d17ace88b76418af89232a61ccd7198473a6b85e0698ad2264eb8b934b7ef63d"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "3b459d321d422b95dd13da104e7b88ec301bdc6e07f22215f4be7adcab13c7d8"
 metafile = true
 
 [[files]]
@@ -273,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
+metafile = true
+
+[[files]]
+file = "mods/coxinha-utilities.pw.toml"
+hash = "7665453af22db34c5d1b1438b5aa8d8f03473e3ea90391c3f9cad8b989d83255"
 metafile = true
 
 [[files]]
@@ -318,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "7b254fbbdb60ec50e5840a102bd16846fa4c9b2633886f82d1c6cf4b90f98786"
+metafile = true
+
+[[files]]
+file = "mods/entangled.pw.toml"
+hash = "474d898f1b15546b63b5097fc826b376c7efdb8c2270181a056e7524ea9c0de0"
 metafile = true
 
 [[files]]
@@ -461,6 +491,16 @@ hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "c749360662121a7b9bc6ac0513c0a180384d36d873bd2a53067edcb08b66519a"
+metafile = true
+
+[[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "399881f46433ce3d5adad950d854f7866cd6046dd2bf6c7980c8d972867f2361"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -503,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "835a482e07f197cf635b0c96c9d668f6d186e72fcfa5010b81b3b4be6d8489cf"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "6b2df72430aad54b186f53a6d16982af5b1222c1f756e0ce11ede8ee77962d72"
 metafile = true
 
 [[files]]
@@ -595,6 +640,21 @@ hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "a83eaf0e340efd659d6f501ae9799f486719e12f004cc70246f28d52e01173f0"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "8c789d7a69c44826a6073889dd74c6677c5d430a5074253e04b0a51793b209dc"
+metafile = true
+
+[[files]]
+file = "mods/tesseract.pw.toml"
+hash = "76399c0215485b6bfd8fd76af021c0d8956440ec010c83ad59fdb79715db2884"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "5266f479ada8def6f0913d79b57f1dbf52058df1690e3702a3a3608e6a80c796"
 metafile = true
@@ -615,6 +675,11 @@ hash = "fda4e069e887ff780b767ba811a8e882ae527df4bdd8eacd7d60bab76eb27f27"
 metafile = true
 
 [[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "162e69a1600cbf4715598fcebdf39cb64f5346ce32dee63a95d3003c74afebbc"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
 metafile = true
@@ -627,6 +692,16 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "4eab0db38cceb1a4e00e6ebf3a46bcb47189a9b4ae3167c54af3e604b657207b"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
+file = "mods/wormhole.pw.toml"
+hash = "a8a9ddde651f0c0054082daa25f064f4c9797bb6cf3955296ef93c0f03b6b36a"
 metafile = true
 
 [[files]]

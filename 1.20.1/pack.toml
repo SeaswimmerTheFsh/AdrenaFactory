@@ -1,12 +1,12 @@
 name = "AdrenaFactory"
 author = "SeaswimmerTheFsh"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ee96632f863f43ba3140919818fb1063d9d01118ba08062e8ed38b198cbae67a"
+hash = "61465865d7de478b8d9ec450479b8803ee7c568d89343db438b4ccebc0d7822e"
 
 [versions]
 fabric = "0.14.21"
