@@ -211,11 +211,6 @@ hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
-file = "mods/atlas-combat.pw.toml"
-hash = "089fd8a0aa8def8e64c912dac190eb4b41bbdeb8df2a4ee5438850be51f390ce"
-metafile = true
-
-[[files]]
 file = "mods/autowhitelist.pw.toml"
 hash = "2c641f4f0ee96191fb0f31e6c31059ee0e5f7bf461e27bce537e73abfaeaaa8c"
 metafile = true
