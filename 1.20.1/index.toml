@@ -25,10 +25,6 @@ file = "config/borderlessmining.json"
 hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 
 [[files]]
-file = "config/c2me.toml"
-hash = "cdf61af100d8a29e9bbf26cc1b7ad8ae29c82357831705a97bb1dffa8ab386fa"
-
-[[files]]
 file = "config/capes.json5"
 hash = "51336712e25933a4b3ef553958ead09ccf02a7502b02b4240ae60c381b1858f0"
 
@@ -118,7 +114,7 @@ hash = "ea864afd706a87d39b949092e7fc2452fdb8bea2f476cea571e2c5c7a2140433"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fef3986e3ed4b82655eb390b54350ab928aaa2efabf3502a09a91541a518d370"
+hash = "d44682e351f94c0de7ed0024f872f41641be98900c19411a4c40d392fbe1414b"
 
 [[files]]
 file = "config/lambdabettergrass.toml"
